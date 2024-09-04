@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "v04AnpfT8AwTvtHxpXG3Y/y6mFwPTHDevosuRUVE/bE=",
+  "Source": "recuperacao-lhpets",
+  "BasePath": "_content/recuperacao-lhpets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "recuperacao-lhpets\\wwwroot",
+      "Source": "recuperacao-lhpets",
+      "ContentRoot": "C:\\Users\\danil\\Desktop\\recuperacao-lhpets\\wwwroot\\",
+      "BasePath": "_content/recuperacao-lhpets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\danil\\Desktop\\recuperacao-lhpets\\wwwroot\\index.html",
+      "SourceId": "recuperacao-lhpets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\danil\\Desktop\\recuperacao-lhpets\\wwwroot\\",
+      "BasePath": "_content/recuperacao-lhpets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

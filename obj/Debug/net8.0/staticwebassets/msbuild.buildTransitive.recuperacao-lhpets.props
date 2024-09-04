@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\recuperacao-lhpets.props" />
+</Project>
