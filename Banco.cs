@@ -10,7 +10,7 @@ namespace recuperacao_lhpets
             {
                 SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder(
                     "Integrated Security=true;" +
-                    "Server=" +
+                    "Server=DESKTOP-FSU9PC5\\SQLEXPRESS;" +
                     "Database=vendas;" +
                     "Trusted_Connection=true;"
                 );

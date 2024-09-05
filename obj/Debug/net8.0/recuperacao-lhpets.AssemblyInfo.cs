@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("recuperacao-lhpets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5f7321b3925684c620baffc25b6feae974e58e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("recuperacao-lhpets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("recuperacao-lhpets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
